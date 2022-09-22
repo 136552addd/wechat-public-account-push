@@ -95,28 +95,30 @@ export const USER_CONFIG = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
+      name: "磊磊",
+      id: "oEBOa6JMhxwpt7m_Nr4TnJrPNnIU",
+      useTemplateId: "JP36jRfwmKJO1tmlYJVkyRe_9wsEL9-dw-SOFOwDbv4",
+      province: "黑龙江",
+      city: "哈尔滨",
+      horoscopeDate: '02-29',
+      horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      festivals: [{"type": "*生日", "name": "磊磊", "year": "2003", "date": "02-29"}],
+      customizedDateList: [  今天是2022年倒数日
+        {"keyword": "love_day", date: "2022-01-01"}]
     },
     {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
+      name: "婷婷",
+      id: "oEBOa6Fu4J4gePEIw9Kr0CDd8w2g",
+      useTemplateId: "JP36jRfwmKJO1tmlYJVkyRe_9wsEL9-dw-SOFOwDbv4",
+      province: "山东",
+      city: "济南",
+      horoscopeDate: '06-19',
+      horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      festivals: [{"type": "*生日", "name": "婷婷", "year": "2003", "date": "06-19"}],
+      customizedDateList: [ 今天是2022年倒数日
+        {"keyword": "love_day", date: "2022-01-01"}]
     },
     {
       name: "老婆3",
